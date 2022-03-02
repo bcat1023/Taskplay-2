@@ -1,3 +1,5 @@
+# Taskplay-2 coming soon
+
 # Taskplay
 ![Screenshot](https://raw.githubusercontent.com/evilpro/Taskplay/master/Taskplay.png)
 
@@ -10,3 +12,6 @@ It is currently targeting .NET Framework 2.0 so it should be compatible with mos
 
 ## Download
 To download Taskplay, please go to the Releases tab of this repository.
+
+## Original program by evilpro
+Taskplay-2 will be a updated version with dark icons and more
