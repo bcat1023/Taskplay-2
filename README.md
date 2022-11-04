@@ -1,4 +1,4 @@
-# Taskplay-2 coming soon
+# Canceled, this project has been shelved for now.
 
 # Taskplay
 ![Screenshot](https://raw.githubusercontent.com/evilpro/Taskplay/master/Taskplay.png)
